@@ -1,0 +1,6 @@
+{
+  "vite": false,
+  "mpa": true,
+  "disableRuntime": true,
+  "polyfill": false
+}
